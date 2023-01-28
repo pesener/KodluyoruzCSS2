@@ -1,0 +1,78 @@
+.main{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 90px;
+    
+}
+.main2{
+    display:flex;
+    justify-content: center;
+    background-color: gray;
+    color:white;
+    align-items: center;
+flex-direction: column;
+margin-bottom: 3px;
+}
+.input{
+   
+   
+    margin-bottom: 1px;
+    
+   
+}
+
+.h3{
+    display: flex;
+    
+}
+
+.buttons{
+    margin-bottom: 10px;
+}
+
+.main3{
+    display: grid;
+    justify-content: center;
+    background-color: aqua;
+    float: left;
+    width:33%;
+    margin-right: 3px;
+    height: 98px;
+}
+.main4{
+    display: grid;
+    justify-content: center;
+    background-color: aqua;
+    float: left;
+    width:33%;
+    margin-right: 3px;
+    height: 98px;
+
+}
+.main5{
+    display: grid;
+    justify-content: center;
+    background-color: aqua;
+    float: left;
+    width:33%;
+    height: 98px;
+
+}
+
+.btn{
+    width: 50%;
+    font-size:11px;
+margin-right: 10px;
+}
+
+.footer{
+    display: block;
+    justify-content:center;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    margin-top: 110px;
+   background-color: white;
+    text-align: center;
+}
+
